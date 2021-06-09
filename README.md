@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Power Solutions - Enlightening your home.
 
-You can use the [editor on GitHub](https://github.com/ajit-r/ajit-r.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### EMERGENCY ELECTRICIAN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you need an emergency service call us and we will arrange an on site visit as soon as possible.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### LIGHTING
 
-- Bulleted
-- List
+Lighting is a very important factor in a room, entrance foyer, office or outdoor area. We have experience in lighting design as well as installation.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### ELECTRICAL TESTING
 
-[Link](url) and ![Image](src)
-```
+We diagnose electrical faults fast. If you have problems relating to electrical wiring or lighting then you need an experienced electrician that you can trust to solve the problem.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### SWITCHBOARD UPGRADE
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajit-r/ajit-r.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your expensive electronic equipment and gadgets may be at risk to an unexpected power surge….
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Our Services:
+
+#### Installation
+
+- Lighting, lights and light fittings
+- Ceiling fans
+- Power points
+- TV outlets
+- Inverters and UPS
+- Phone outlets
+- Garden lighting
+- Range-hoods and ovens
+- Computer networking
+#### Repairs
+- Electric hot water systems
+- All lighting, lights and light fittings
+- Ceiling fans
+- Inverters and UPS
+#### Upgrades
+- Switchboards
+- Mains capacity
+- All lighting, lights and light fittings
+#### Replacements
+- Switchboards
+- All lighting, lights and light fittings
+#### Solutions
+- All lighting design and requirements
+- Surge protection
+- Wiring/rewiring of houses – Extensions
+
+
+### Contact Us
+#### Phone: +91 9747750527
+#### Email: pwrsolns@gmail.com
