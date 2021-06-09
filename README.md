@@ -1,25 +1,4 @@
-## Power Solutions - Enlightening your home.
-
-
-
-#### EMERGENCY ELECTRICIAN
-
-If you need an emergency service call us and we will arrange an on site visit as soon as possible.
-
-
-#### LIGHTING
-
-Lighting is a very important factor in a room, entrance foyer, office or outdoor area. We have experience in lighting design as well as installation.
-
-
-#### ELECTRICAL TESTING
-
-We diagnose electrical faults fast. If you have problems relating to electrical wiring or lighting then you need an experienced electrician that you can trust to solve the problem.
-
-
-#### SWITCHBOARD UPGRADE
-
-Your expensive electronic equipment and gadgets may be at risk to an unexpected power surge….
+## Welcome to Power Solutions
 
 
 ### Our Services:
