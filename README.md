@@ -14,18 +14,23 @@
 - Garden lighting
 - Range-hoods and ovens
 - Computer networking
+
 #### Repairs
 - Electric hot water systems
 - All lighting, lights and light fittings
 - Ceiling fans
 - Inverters and UPS
+
 #### Upgrades
+
 - Switchboards
 - Mains capacity
 - All lighting, lights and light fittings
+
 #### Replacements
 - Switchboards
 - All lighting, lights and light fittings
+
 #### Solutions
 - All lighting design and requirements
 - Surge protection
